@@ -1,7 +1,7 @@
 # helloworld
 
 
-###Installation
+### Installation
 
 clone the repo and use pip to install:
 
@@ -11,7 +11,7 @@ cd helloworld/
 pip install .
 ```
 
-###CLI Usage
+### CLI Usage
 command line usage works like so:
 ```
 $ helloworld -h
@@ -28,7 +28,7 @@ optional arguments:
   --polite              print an eloquent and polite exit message
 ```
 
-###Python API
+### Python API
 use it like this:
 
 ```
